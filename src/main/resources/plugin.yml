@@ -1,0 +1,6 @@
+name: LevelHealth
+version: '${project.version}'
+main: com.loefars.levelhealth.LevelHealth
+api-version: 1.19
+authors: [ Loefars ]
+description: Level = Health
